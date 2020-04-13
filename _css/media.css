@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+div#tv-radio {
+    max-width: 800px;
+    max-height: 680px;
+    width: auto;
+    height: auto;
+    size: 5px;
+    margin: auto;
+}
+
+audio#musica {
+    display: block;
+    position: relative;
+    left: 475px;
+    top: 10px;
+    height: 40px;
+    width: 300px;
+    outline: hidden;
+}
+
+iframe#filme {
+    border-radius: 40px;
+    display: block;
+    position: relative;
+    left: -20px;
+    top: -30px;
+    width: 440px;
+}
+
+audio:focus, input:focus, select:focus {
+    outline: hidden;
+}
