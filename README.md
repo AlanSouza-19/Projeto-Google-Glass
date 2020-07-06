@@ -1,3 +1,5 @@
 # Projeto-Google-Glass
 
-https://projeto-google-glass.netlify.app
+Site demostrativo de informações sobre o google glass
+
+link: https://projeto-google-glass.netlify.app
